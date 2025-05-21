@@ -1,17 +1,17 @@
-​{
-  "title": "Momose Akira's First Love Struggles.",
-  "description": "Kugayama Hajime, a boy living in the countryside, comes back to his old classmate Momose Akira, whom he used to admire. Just as he is about to watch her from afar and enjoy his sweet and sour youth, Akira makes an unexpected approach. And there was a 'fate' that was more than he could have imagined.",
-  "artist": "Harekawa Shintae",
-  "author": "Harekawa Shinta",
-  "cover": "<mangacoverurl.jpg>",
-  "chapters": {
-    "14": {
-      "title": "Budding Friendship",
-      "volume": "1",
-      "groups": {
-        "Odd Stuff": "/proxy/api/imgur/chapter/ZshPaL6/"
-      },
-      "last_updated": "1616368746"
-    }
-  },
+{
+   "title":"Momose Akira's First Love Struggles.",
+   "description":"Kugayama Hajime, a boy living in the countryside, comes back to his old classmate Momose Akira, whom he used to admire. Just as he is about to watch her from afar and enjoy his sweet and sour youth, Akira makes an unexpected approach. And there was a 'fate' that was more than he could have imagined.",
+   "artist":"Harekawa Shintae",
+   "author":"Harekawa Shinta",
+   "cover":"<mangacoverurl.jpg>",
+   "chapters":{
+      "14":{
+         "title":"Budding Friendship",
+         "volume":"1",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgur/chapter/ZshPaL6/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
 }
