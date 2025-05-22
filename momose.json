@@ -5,6 +5,22 @@
    "author":"Harekawa Shinta",
    "cover":"https://raw.githubusercontent.com/OddStuffSL/Momose/refs/heads/main/Covers/1.jpg",
    "chapters":{
+   "12":{
+         "title":"The Tribulations of the Bicycle",
+         "volume":"1",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/o24aq58637l"
+         },
+         "last_updated":"1747934291"
+      },
+       "13":{
+         "title":"Observing a Trip Back Home",
+         "volume":"1",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/wl7lgq2apyx"
+         },
+         "last_updated":"1747934291"
+      },
       "14":{
          "title":"Budding Friendship",
          "volume":"1",
