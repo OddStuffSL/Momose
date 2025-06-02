@@ -3,11 +3,11 @@
    "description":"Kugayama Hajime, a boy living in the countryside, comes back to his old classmate Momose Akira, whom he used to admire. Just as he is about to watch her from afar and enjoy his sweet and sour youth, Akira makes an unexpected approach. And there was a 'fate' that was more than he could have imagined.",
    "artist":"Harekawa Shintae",
    "author":"Harekawa Shintae",
-   "cover":"https://raw.githubusercontent.com/OddStuffSL/Momose/refs/heads/main/Covers/1.jpg",
+   "cover":"https://raw.githubusercontent.com/OddStuffSL/Momose/refs/heads/main/Covers/2.jpg",
    "chapters":{
       "12":{
          "title":"The Tribulations of the Bicycle",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/o24aq58637l"
          },
@@ -15,7 +15,7 @@
       },
       "13":{
          "title":"Observing a Trip Back Home",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/wl7lgq2apyx"
          },
@@ -23,7 +23,7 @@
       },
       "14":{
          "title":"Budding Friendship",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/6eyr9jelxyp"
          },
@@ -31,7 +31,7 @@
       },
       "15":{
          "title":"Library Mission",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/dl7pe3d9kyo"
          },
@@ -39,7 +39,7 @@
       },
       "16":{
          "title":"Positivity Runs Amok",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/a846w85lvyx"
          },
@@ -47,7 +47,7 @@
       },
       "17":{
          "title":"Imaginary Future in Progress",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/6eyr9em9kyp"
          },
@@ -55,7 +55,7 @@
       },
       "18":{
          "title":"Dancing To Your Own Rhythm",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/agyvq599w48"
          },
@@ -63,7 +63,7 @@
       },
       "19":{
          "title":"Spending Time Together",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/9249w6p3vyn"
          },
@@ -71,7 +71,7 @@
       },
       "20":{
          "title":"Obsession With You",
-         "volume":"1",
+         "volume":"2",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/qe4gjn5wo4j"
          },
@@ -79,7 +79,7 @@
       },
       "21":{
          "title":"Did That Really Happen?",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/dl7pe3833yo"
          },
@@ -87,7 +87,7 @@
       },
       "22":{
          "title":"Accident or Incident?",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/qe4gjn98b4j"
          },
@@ -95,7 +95,7 @@
       },
       "23":{
          "title":"Preparing for the Real Souvenir",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/bp45pwavgy5"
          },
@@ -103,7 +103,7 @@
       },
       "24":{
          "title":"A Certain Girl's Struggles",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/na7km3mkq48"
          },
@@ -111,7 +111,7 @@
       },
       "25":{
          "title":"A Passionate Club President",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/ne7bd8o6v45"
          },
@@ -119,7 +119,7 @@
       },
       "26":{
          "title":"Consulting with Passionate Maidens",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/ljyqxnnbk42"
          },
@@ -127,7 +127,7 @@
       },
       "27":{
          "title":"Maiden Vs Maiden",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/9ryd6lxw67k"
          },
@@ -135,9 +135,17 @@
       },
       "28":{
          "title":"Meeting the Scary Mom",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/vj4jgojee48"
+         },
+         "last_updated":"1748724426"
+      },
+      "29":{
+         "title":"Under One Roof",
+         "volume":"3",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/md7oqglwr4p"
          },
          "last_updated":"1748724426"
       }
