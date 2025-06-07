@@ -1,5 +1,5 @@
 {
-   "title":"Momose Akira's First Love Struggles.",
+   "title":"Akira Failing in Love.",
    "description":"Kugayama Hajime, a boy living in the countryside, comes back to his old classmate Momose Akira, whom he used to admire. Just as he is about to watch her from afar and enjoy his sweet and sour youth, Akira makes an unexpected approach. And there was a 'fate' that was more than he could have imagined.",
    "artist":"Harekawa Shintae",
    "author":"Harekawa Shintae",
@@ -156,6 +156,14 @@
             "Odd Stuff":"/proxy/api/imgchest/chapter/5xy28p5zzyl"
          },
          "last_updated":"1749059454"
+      },
+      "31":{
+         "title":"Double Crisis",
+         "volume":"4",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/n87wxvppzyx"
+         },
+         "last_updated":"1749330549"
       }
    }
 }
