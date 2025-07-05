@@ -189,13 +189,21 @@
          },
          "last_updated":"1750353266"
       },
-            "35":{
+      "35":{
          "title":"The Distance Between Us",
          "volume":"4",
          "groups":{
             "Odd Stuff":"/proxy/api/imgchest/chapter/n87wxqdrxyx"
          },
          "last_updated":"1751303267"
+      },
+      "36":{
+         "title":"Heartbeats and Pains, Coming and Going",
+         "volume":"4",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/ej7ml6bmj4d"
+         },
+         "last_updated":"1751678331"
       }
    }
 }
